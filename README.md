@@ -1,4 +1,5 @@
 What's My Weather?
+
 Coding example gets you location and pre populates your weather based on your coordinates should you allow it. You can find another zipcodes weather by entering a zip code.
 
 I used component composition, for the components. The complexity of the application is extremely simple, thus something like Redux, or containers or stateful routing wasn't necessary. However, I did include react-router, because it's something I have found useful in the past and I would include it in any new project. I chose to add Redux, not out of necessity but to show that I generally follow a duck pattern. This is something I've had success with in the past, and today. https://github.com/erikras/ducks-modular-redux note the pattern I follow is slightly different.
